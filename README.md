@@ -2,12 +2,11 @@
 
 **Instructions**: 
 
-* In the `HTML` file, create the layout of the page as seen in the reference image below. 
+* Nutzt die "HTML"-Datei, um das Layout der Seite nachzubauen: 
 ![reference-image](/images/reference-image.png)
 
-* Make the appropriate elements flex-containers. There should be three flex containers total.
+* Macht die entsprechenden Elemente zu "flex-container". Insgesamt sollte es drei "flex-container" geben.
 ![reference-flex-containers](/images/reference-flex.png)
 
-* Use the color specifications found in the image below.
+* Verwendet die "Farben", wie in der Abbildung:
 ![reference-color](/images/reference-colors.png)
-
